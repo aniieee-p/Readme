@@ -1,5 +1,9 @@
 # Readme
 <p align="center">
+  <img src="https://raw.githubusercontent.com/aniieee-p/aniieee-p/main/your-image-name.png" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" alt="Aesthetic Tech Banner" width="100%" />
 </p>
 
