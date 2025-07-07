@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/aniieee-p/aniieee-p/main/your-image-name.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" alt="Aesthetic Tech Banner" width="100%" />
-</p>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DB6&width=435&lines=Hello%2C+I+am+Anisha+Patel!;CS+Student+%7C+Fullstack+Developer+%7C+Tech+Explorer+%7C+DSA+%26+Web+Dev" />
 </h3>
