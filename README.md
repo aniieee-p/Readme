@@ -73,7 +73,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniieee-p&theme=tokyonight&row=1&column=6&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aniieee-p&theme=algolia&row=1&column=6" />
 </p>
 
 ---
