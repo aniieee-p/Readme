@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DB6&width=435&lines=Hello%2C+I+am+Anisha+Patel!;CS+Student+%7C+Fullstack+Developer+%7C+Tech+Explorer+%7C+DSA+%26+Web+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DB6&width=435&lines=Hello%2C+I+am+Anisha+Patel!;Aspiring+Software+Developer%F0%9F%92%BB;Loves+Web+Dev+%7C+DSA+%7C+Python" />
 </h3>
 
 <p align="center">
