@@ -8,8 +8,8 @@
 </h3>
 
 <p align="center">
-  💻 BTech CSE @ GLA University | 🎓 Batch 2023–2027  
-  💡 Contributor at SSOC'4 | Mentee @ W3grads | Technical Researcher at Angaar  
+  💻Tech Enthusiast | BTech 🎓 @GLA University |
+  💡 Contributor at SSOC'4 | Mentee @W3grads | Technical Researcher at @Angaar Batch  
   🌱 Love building web apps, solving DSA, and exploring collaborative projects  
 </p>
 
